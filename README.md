@@ -1,4 +1,4 @@
-# 📊 Excel Dashboard Portfolio
+# Excel Dashboard Portfolio
 
 A collection of interactive Microsoft Excel dashboard projects developed using Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, and advanced Excel analytics.
 
@@ -6,16 +6,16 @@ These projects demonstrate business intelligence, data visualization, KPI report
 
 ---
 
-## 📁 Projects Included
+## Projects Included
 
-- 🛒 BlinkIT Grocery Dashboard
-- 🛍 Ecommerce Sales Analysis Dashboard
-- 🚗 Road Accident Dashboard
-- 💰 Sales Dashboard
+- BlinkIT Grocery Dashboard
+- Ecommerce Sales Analysis Dashboard
+- Road Accident Dashboard
+- Sales Dashboard
 
 ---
 
-# 🛒 1. BlinkIT Grocery Dashboard
+# 1. BlinkIT Grocery Dashboard
 
 ### Project Overview
 
@@ -40,12 +40,12 @@ An interactive retail dashboard developed in Microsoft Excel to analyse BlinkIT 
 
 ### Files
 
-- 📄 BlinkIT Grocery Data Excel.xlsx
-- 🖼 BlinkIT Grocery Dashboard.PNG
+- BlinkIT Grocery Data Excel.xlsx
+- BlinkIT Grocery Dashboard.PNG
 
 ---
 
-# 🛍 2. Ecommerce Sales Analysis Dashboard
+# 2. Ecommerce Sales Analysis Dashboard
 
 ### Project Overview
 
@@ -69,12 +69,12 @@ An Excel dashboard built for analysing ecommerce sales performance across produc
 
 ### Files
 
-- 📄 Ecommerce Sales Analysis.xlsx
-- 🖼 Ecommerce Sales Analysis Dashboard.PNG
+- Ecommerce Sales Analysis.xlsx
+- Ecommerce Sales Analysis Dashboard.PNG
 
 ---
 
-# 🚗 3. Road Accident Dashboard
+# 3. Road Accident Dashboard
 
 ### Project Overview
 
@@ -99,12 +99,12 @@ A Microsoft Excel dashboard created to analyse road accident data and identify a
 
 ### Files
 
-- 📄 Road Accident Data.xlsx
-- 🖼 Road Accident Dashboard.PNG
+- Road Accident Data.xlsx
+- Road Accident Dashboard.PNG
 
 ---
 
-# 💰 4. Sales Dashboard
+# 4. Sales Dashboard
 
 ### Project Overview
 
@@ -129,12 +129,12 @@ A business sales dashboard designed in Microsoft Excel to monitor company sales 
 
 ### Files
 
-- 📄 Sales_Dashbaoard_Using_Excel.xlsx
-- 🖼 Sales_Dashbaoard_Using_Excel.PNG
+- Sales_Dashbaoard_Using_Excel.xlsx
+- Sales_Dashbaoard_Using_Excel.PNG
 
 ---
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -149,7 +149,7 @@ A business sales dashboard designed in Microsoft Excel to monitor company sales 
 
 ---
 
-# 📈 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 - Data Visualization
@@ -163,7 +163,7 @@ A business sales dashboard designed in Microsoft Excel to monitor company sales 
 
 ---
 
-# 🚀 How to Use
+# How to Use
 
 1. Clone this repository
 
@@ -193,7 +193,3 @@ It helps support my work and motivates me to create more Data Analytics and Busi
 
 **Srija Biswas**
 ---
-
-## 📜 License
-
-This project is available for educational and portfolio purposes.
