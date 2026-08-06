@@ -35,7 +35,7 @@ An interactive retail dashboard developed in Microsoft Excel to analyse BlinkIT 
 ### Dashboard Preview
 
 <p align="center">
-<img src="BlinkIT%20Grocery%20Dashboard.PNG" width="900">
+<img src="BlinkIT%20Grocery%20Dashboard.png" width="900">
 </p>
 
 ### Files
